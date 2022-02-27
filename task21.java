@@ -15,6 +15,7 @@ class number
 		if(x>y)
 		{
 			System.out.println("addition="+(x+y));
+			
 			System.out.println("subtraction="+(x-y));
 			System.out.println("multiplication="+(x*y));
 			System.out.println("division="+(x/y));
