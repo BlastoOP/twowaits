@@ -1,4 +1,3 @@
-package twowaits;
 import java.util.*;
 class number
 {
